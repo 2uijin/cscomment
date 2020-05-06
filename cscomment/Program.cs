@@ -14,7 +14,7 @@ namespace cscomment
 
             //x = 2; y = 10;
             //x = 1; y = 4;
-            x = 10; y = 2;
+            //x = 10; y = 2;
 
             if (x > 4)
             {
